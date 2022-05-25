@@ -4,4 +4,4 @@ https://www.geeksforgeeks.org/histograms-equalization-opencv/
 
 
 
-Recomendacao, criar pasta img para organizar as imagens
+Recomendaçao, criar pasta img para organizar as imagens
